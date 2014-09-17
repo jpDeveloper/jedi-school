@@ -1,4 +1,0 @@
-jedi-school
-===========
-
-Mastering Git
